@@ -110,11 +110,12 @@ body{
 .footer{
     color:var(--color-primaria);
     background-color: var(--color-terciaria);
-    padding: 2.2%;
+    padding: 3.5%;
     text-align: center;
     font-family: var(--fuente-krona);
     font-size: 1.5rem;
     font-weight: 400;
+    align-items: end;
 }
 
 @media (max-width: 1200px) {
