@@ -64,7 +64,7 @@ export const profile = {
     twitter: "",
   },
   // Poné tu CV en public/cv.pdf y dejá esto en "/cv.pdf" para mostrar el botón.
-  resumeUrl: "",
+  resumeUrl: "/cv.pdf",
   // Tu foto: guardala en public/profile.jpg (o cambiá la ruta). "" para ocultar.
   avatar: "/profile.jpg",
 };
